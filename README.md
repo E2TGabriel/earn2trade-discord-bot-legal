@@ -1,0 +1,1 @@
+# earn2trade-discord-bot-legal
