@@ -1,6 +1,6 @@
 # Earn2Trade Discord Bot Privacy Policy
 
-Last updated: June 2026
+Last updated: October 2026
 
 This Privacy Policy explains how the Earn2Trade Discord bot processes information when used inside the Earn2Trade Discord community.
 
@@ -66,3 +66,15 @@ We may update this Privacy Policy when bot features, community operations, or le
 ## 9. Contact
 
 For privacy questions about the Earn2Trade Discord bot, contact Earn2Trade through the official Earn2Trade support channels or website.
+
+## 10. Support Tickets
+
+When you open a support ticket, the bot creates a private channel that only you and Earn2Trade staff (the Admin and Moderator roles) can see. The bot keeps a record of the ticket: the form you filled in, including the email address you chose or added, the messages and files posted in the ticket channel, who handled it, staff notes, and when it was opened, closed and deleted. Every ticket starts with a notice that it is saved. An email address you add in the ticket form is also saved to your profile with the bot, like an address added in other bot forms.
+
+The bot reads message content only in the ticket channels it created, and only to save the ticket's record. It ignores message content everywhere else.
+
+Ticket records are stored encrypted on Earn2Trade's own server. Only Admin and Moderator staff can read them, through the bot. They are deleted automatically one year after the ticket is deleted, and backups of them are kept for 7 days.
+
+You can ask staff, in a ticket or through Earn2Trade's official support, for a copy of your tickets or for them to be deleted, at any time.
+
+Ticket content is never used to train AI or machine learning models, and it is never sold or shared outside Earn2Trade.
