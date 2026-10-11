@@ -59,6 +59,8 @@ Some records may need to be retained where required for security, moderation, ab
 
 We take reasonable steps to protect bot-related data and limit access to people who need it for community operations, support, moderation, or maintenance.
 
+Backups of the bot's records are encrypted before they are stored, on Earn2Trade's own server and, in that encrypted form only, with a backup storage provider. They are kept for up to three months and then deleted. Support ticket records are not part of these backups; they have their own, described in section 10.
+
 ## 8. Changes to This Policy
 
 We may update this Privacy Policy when bot features, community operations, or legal requirements change.
